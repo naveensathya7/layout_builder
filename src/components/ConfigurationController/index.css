@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.configuration-controller-bg {
+  background-color: #475569;
+  height: 30vh;
+  padding: 20px;
+  width: 100%;
+  background-size: cover;
+  font-family: 'Roboto';
+}
+.heading-layout {
+  margin-top: 0px;
+  color: #ffffff;
+}
+.checkbox {
+  margin-top: 15px;
+  margin-right: 10px;
+}
+.checkbox-label {
+  font-size: 20px;
+  color: #ffffff;
+}
